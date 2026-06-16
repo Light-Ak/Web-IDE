@@ -71,6 +71,7 @@ AUTH_GITHUB_SECRET=your_github_secret
 DATABASE_URL=your_mongodb_connection_string
 NEXTAUTH_URL=http://localhost:3000
 OLLAMA_MODEL=qwen2.5-coder:1.5b
+OLLAMA_MODEL=qwen2.5-coder:1.5b
 ```
 
 ### 4. Start Local Ollama Model
@@ -142,5 +143,3 @@ This project is licensed under the [MIT License](LICENSE).
 * [WebContainers](https://webcontainers.io/)
 * [xterm.js](https://xtermjs.org/)
 * [NextAuth.js](https://next-auth.js.org/)
-
-
